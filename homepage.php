@@ -40,6 +40,14 @@ include("connect.php");
     display: flex;
     justify-content: space-around;
 }
+
+
+
+
+
+
+
+        
     </style>
 </head>
 
@@ -58,7 +66,7 @@ include("connect.php");
     </div>
     <div id="controls">
     <button id="startBtn">Turn On</button>
-    <button id="stopBtn" disabled>Turn Off</button>
+    <button id="stopBtn" disabled>Turn Off/Shut Off</button>
     </div>
     </div>
 

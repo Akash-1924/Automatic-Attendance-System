@@ -8,6 +8,7 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
+    <div>New templete</div>
   <div class="head"><p class="hh1">MarkAPP</p></div>
     <div class="container" id="signup" style="display:none;">
       <h1 class="form-title">Register</h1>
